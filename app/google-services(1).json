@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085945592994",
+    "project_id": "majorproject-f3042",
+    "storage_bucket": "majorproject-f3042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085945592994:android:d0a6aa62f3f5fd15beebfb",
+        "android_client_info": {
+          "package_name": "com.example.aahaarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085945592994-jl7cuf3kd8d7tvpeaosmbq0hv5th92a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVX6JhKToTS4cNT1_eAIVVh0UvR3ktr9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085945592994-jl7cuf3kd8d7tvpeaosmbq0hv5th92a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

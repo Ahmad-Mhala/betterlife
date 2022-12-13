@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "987969370521",
+    "project_id": "better-life-project",
+    "storage_bucket": "better-life-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987969370521:android:c560906f3d4d4a95e83b08",
+        "android_client_info": {
+          "package_name": "com.example.aahaarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987969370521-ficmcbop1pasq884f89ih3dap9g3ju5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUPqx5G5o44BSeIwzpMrdDlCxJVNEH6Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987969370521-ficmcbop1pasq884f89ih3dap9g3ju5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987969370521:android:25bc6a692164a77be83b08",
+        "android_client_info": {
+          "package_name": "com.example.better_life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987969370521-6uguf86phein72jkf0i4mppeakqq3tca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.better_life",
+            "certificate_hash": "174f48ce924d5563fd0dd0d6bcfdc8b75d543f6c"
+          }
+        },
+        {
+          "client_id": "987969370521-ficmcbop1pasq884f89ih3dap9g3ju5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUPqx5G5o44BSeIwzpMrdDlCxJVNEH6Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987969370521-ficmcbop1pasq884f89ih3dap9g3ju5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

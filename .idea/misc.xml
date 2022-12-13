@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/activity_about.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/activity_adminlogin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/activity_adminmainpage.xml" value="0.25" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/activity_contact.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/activity_donate.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/activity_donationmapforadmin.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/activity_food_map.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/activity_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/activity_historyforadmin.xml" value="0.10826502732240437" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/activity_mainpageactivity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/activity_receive.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/activity_userdataforadmin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/adminlogin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/adminmainpage.xml" value="0.1" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/fragment_adminloginfragment.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/fragment_contactusfragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/fragment_loginfragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/fragment_signup.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/singlerow.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/singlrowforadmin.xml" value="0.203125" />
+        <entry key="..\:/Users/Ahmad Mhala/Desktop/Review 2/betterlife/app/src/main/res/layout/userdata.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master - Copy/app/src/main/res/drawable/button_rounded.xml" value="0.1435" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_about.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_contact.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_donate.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_food_map.xml" value="0.1361111111111111" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_landingpage.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_logup.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_my_pin.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_receive.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master - Copy/app/src/main/res/layout/singlerow.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master - Copy/app/src/main/res/layout/userdata.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master/app/src/main/res/layout/activity_about.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master/app/src/main/res/layout/activity_contact.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master/app/src/main/res/layout/activity_donate.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master/app/src/main/res/layout/activity_logup.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master/app/src/main/res/layout/activity_my_pin.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master/app/src/main/res/layout/activity_receive.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/New folder (2)/AAHAR-APP-master/app/src/main/res/layout/activity_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_about.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_contact.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_donate.xml" value="0.11822916666666666" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_food_map.xml" value="0.1625" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_history.xml" value="0.1625" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_landingpage.xml" value="0.1375" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_logup.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_mainpageactivity.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_my_pin.xml" value="0.1625" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_receive.xml" value="0.1625" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/activity_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/fragment_contactusfragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/fragment_loginfragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/fragment_registerfragment.xml" value="0.19010416666666666" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/fragment_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/mainpage.xml" value="0.20416666666666666" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/singlerow.xml" value="0.1625" />
+        <entry key="..\:/downloaded/developed/AAHAR-APP-master - Copy/app/src/main/res/layout/userdata.xml" value="0.11822916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
